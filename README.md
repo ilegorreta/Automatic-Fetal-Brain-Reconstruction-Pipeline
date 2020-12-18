@@ -2,7 +2,7 @@
 ## Developed by Iván Legorreta
 ### Contact information: ilegorreta@outlook.com
 
-The aim of this project was to develop a workflow pipeline containing multiple processing tools towards reconstructing fetal brain MRIs. Developed using Python3 and bash scripts.
+The aim of this project was to develop a complete processing pipeline for reconstructing fetal brain MRIs. Developed using Python3 and bash scripts.
 
 This pipeline will call and execute several MRI processing tools, as shown in the next figure:
 ![Reconstruction Pipeline Diagram](https://github.com/ilegorreta/Automatic-Fetal-Brain-Reconstruction-Pipeline/blob/main/reconstruction_pipeline.png)
