@@ -1,6 +1,6 @@
-* Automatic Fetal Brain Reconstruction Pipeline
-** Developed by Iván Legorreta
-*** Contact information: ilegorreta@outlook.com
+# Automatic Fetal Brain Reconstruction Pipeline
+## Developed by Iván Legorreta
+### Contact information: ilegorreta@outlook.com
 
 The aim of this project was to develop a workflow pipeline containing multiple processing tools towards reconstructing fetal brain MRIs. Developed using Python3 and bash scripts.
 
